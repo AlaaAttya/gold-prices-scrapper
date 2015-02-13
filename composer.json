@@ -1,0 +1,12 @@
+{
+    "name": "alaa/gold-prices-scrapper",
+    "description": "A scrapper that pulls gold prices",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alaa Attya",
+            "email": "alaa.attya91@gmail.com"
+        }
+    ],
+    "require": {}
+}
