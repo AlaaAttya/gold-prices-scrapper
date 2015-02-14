@@ -8,5 +8,10 @@
             "email": "alaa.attya91@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "electrolinux/phpquery": "dev-master"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
 }
